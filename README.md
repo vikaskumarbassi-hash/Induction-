@@ -1,5 +1,5 @@
 # Induction-
-This includes the details regarding induction program of gndec 
+This includes the details regarding induction program of GNDEC 
 
 ## Day1  ( July 31 , 2025) 
 *INTRODUCTION*
