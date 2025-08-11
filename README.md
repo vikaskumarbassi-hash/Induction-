@@ -1,3 +1,9 @@
+NAME :- HARSHITA
+FATHER'S NAME :- VIKAS KUMAR
+REGISTRATION NUMBER :- 2510251
+BRANCH :- CSE 
+MOBILE NUMBER:- 9888781899
+EMAIL :- vikaskumar.bassi@gmail.com
 # Induction-
 This includes the details regarding induction program of GNDEC 
 
